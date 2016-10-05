@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="drawer_p">#e4e4e4</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="subTitleC">#1a1818</color>
+    <color name="colorToolbar">#414141</color> <!--#ffe4a1  414141-->
+    <color name="activeted">#ffe4a1</color>
+    <color name="bglist">#a4a2a2</color>
+    <color name="colorTabTextSelect">#8bafc4</color>
+    <color name="colorTab">#aacadc</color>
+    <color name="simple">#d1cece</color>
+</resources>
